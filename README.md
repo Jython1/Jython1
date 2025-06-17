@@ -46,8 +46,7 @@
 
 ## 📫 Контакты
 
-- 📧 Email: [jython1@gmail.com](mailto:jython1@gmail.com)  
-- 🔗 GitHub: [github.com/Jython1](https://github.com/Jython1)  
+- 📧 Email: [jython1@gmail.com](mailto:jython1@gmail.com)   
 - ▶️ YouTube: [youtube.com/@jython1](https://youtube.com/@jython1?si=P3ghNetgsPKD4_gw)
 
 ---
